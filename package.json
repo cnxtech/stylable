@@ -48,7 +48,7 @@
     "gh-pages": "^2.0.1",
     "glob": "^7.1.4",
     "html-webpack-plugin": "next",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "lerna": "^3.14.1",
     "mocha": "^6.1.4",
     "mocha-loader": "^2.0.1",
