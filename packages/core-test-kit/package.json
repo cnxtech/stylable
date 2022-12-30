@@ -13,7 +13,7 @@
   "dependencies": {
     "@stylable/core": "^2.0.9",
     "chai": "^4.2.0",
-    "flat": "^4.1.0",
+    "flat": "^5.0.1",
     "postcss": "^7.0.16"
   },
   "files": [
